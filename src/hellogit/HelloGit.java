@@ -4,7 +4,7 @@ public class HelloGit {
 
 	/*
 	 * main 
-	 * dsf
+	 * hello
 	 */
 	public static void main(String[] args) {
 		System.out.println("git project!");
